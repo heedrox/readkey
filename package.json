@@ -1,0 +1,19 @@
+{
+  "name": "readkey",
+  "version": "1.0.0",
+  "description": "Simple key press reading for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keypress",
+    "key",
+    "read",
+    "node",
+    "keyread",
+    "onkeypress"
+  ],
+  "author": "Jordi Martí",
+  "license": "ISC"
+}
