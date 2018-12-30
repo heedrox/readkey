@@ -1,7 +1,7 @@
 {
   "name": "readkey",
   "version": "1.0.0",
-  "description": "Simple key press reading for node",
+  "description": "A simple node key listener to read keys pressed on keyboard.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
