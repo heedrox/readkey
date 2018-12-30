@@ -13,7 +13,7 @@ Send it to readkey();
 ```
 const readkey = require('readkey');
 const keyCommands = [
-  { fn: (str, key) => str === 'p', command: () => push(options) },
+  { fn: (str, key) => str === 'p', command: () => console.log('p was pressed') },
   { fn: (str, key) => key.ctrl && key.name === 'c', command: () => process.exit() },
   { fn: (str, key) => key.name === 'q', command: () => process.exit() },
 ];
