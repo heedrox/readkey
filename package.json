@@ -15,5 +15,6 @@
     "onkeypress"
   ],
   "author": "Jordi Martí",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "github:jmarti-theinit/readkey"
 }
